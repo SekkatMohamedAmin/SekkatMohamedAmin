@@ -30,6 +30,7 @@ I enjoy environments where I can both **build and break systems**, whether that 
 ## Technologies & Tools
 
 <h3 align="left">Languages and Tools</h3>
+<marquee>
 <p align="left">
 <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
@@ -71,6 +72,7 @@ I enjoy environments where I can both **build and break systems**, whether that 
 <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
 <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
 </p>
+</marquee>
 
 ---
 
