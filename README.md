@@ -96,6 +96,7 @@ I enjoy environments where I can both **build and break systems**, whether that 
 
 ## Links
 * LinkedIn: [https://linkedin.com/in/](https://www.linkedin.com/in/mohamed-amin-sekkat-455b69278)
+* Kaggle: [https://www.kaggle.com/mohamedaminsekkat](https://www.kaggle.com/mohamedaminsekkat)
 
 ---
 
