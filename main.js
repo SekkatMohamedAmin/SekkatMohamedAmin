@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '> whoami',
         'SEKKAT Mohamed Amin',
         '> status',
-        'AI/ML Researcher @ ENSIA',
+        'AI/ML Student @ ENSIA',
         '> passions',
         'Computer Vision, Deep Learning, Cybersecurity',
         '> stack',
